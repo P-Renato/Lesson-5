@@ -1,0 +1,5 @@
+
+    Roses are red
+    Cats are never dull
+    I love JavaScript
+    Cannot read properties of null
